@@ -9,18 +9,18 @@ Features:
 5. Machine learning algorithms for both eCommerce website business owner and buyer.
 
 Functionality:
-Ease of Use
-Wish Lists
-Related Items
-Social Proof
-Security Features
-Shipping Information
-Return Policy
+1. Ease of Use
+2. Wish Lists
+3. Related Items
+4. Social Proof
+5. Security Features
+6. Shipping Information
+7. Return Policy
 
 Technologies used:
-Blockchain api
-Front-end technology - HTML, CSS, JQuery, Javascript
-Backend technology - PHP
-Node.js (To create REST API)
-Cron Job (To scheduling automatic fund transfer)
-MySQL databse
+1. Blockchain api
+2. Front-end technology - HTML, CSS, JQuery, Javascript
+3. Backend technology - PHP
+4. Node.js (To create REST API)
+5. Cron Job (To scheduling automatic fund transfer)
+6. MySQL databse
