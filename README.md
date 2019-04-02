@@ -19,9 +19,7 @@ Functionality:
 7. Return Policy
 
 Technologies used:
-1. Blockchain api
-2. Front-end technology - HTML, CSS, JQuery, Javascript
-3. Backend technology - PHP
-4. Node.js (To create REST API)
-5. Cron Job (To scheduling automatic fund transfer)
-6. MySQL databse
+1. Front-end technology - HTML, CSS, JQuery, Javascript
+2. Backend technology - PHP
+3. Node.js (To create REST API)
+4. MySQL databse
