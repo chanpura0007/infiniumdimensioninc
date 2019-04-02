@@ -1,4 +1,5 @@
 About the project:
+
 This project is aimed to develop a e-commerce site that sells poster of famous comic characters like Batman, Predator, Boba fett, Darth vader etc. It helps customers to buy poster of their favouriete DC comic characterin a secured manner.
 
 Features:
